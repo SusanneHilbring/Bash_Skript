@@ -1,3 +1,3 @@
-#Mein erstes Gir Repositorium
+#Mein erstes Git Repositorium
 Autorin Susanne Hilbring
 
